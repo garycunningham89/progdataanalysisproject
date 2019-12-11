@@ -91,3 +91,5 @@
 # For certain formulaic inputs the LaTeX tutorial on Math.ubc.ca was sampled and the link for such is: https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/.
 
 
+# Tanguy (2019) How Does Your Computer Generate Random Numbers? Accessed online  at: https://www.sicara.ai/blog/2019-01-28-how-computer-generate-random-numbers
+# Cohen, O. (2019) The Definite Guide For Creating An Academic-Level Dataset With Industry Requirements And Constraints. Accessed online at: https://towardsdatascience.com/the-definite-guide-for-creating-an-academic-level-dataset-with-industry-requirements-and-6db446a26cb2
