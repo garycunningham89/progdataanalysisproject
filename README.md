@@ -97,3 +97,4 @@
 # Tanguy (2019) How Does Your Computer Generate Random Numbers? Accessed online  at: https://www.sicara.ai/blog/2019-01-28-how-computer-generate-random-numbers
 # Cohen, O. (2019) The Definite Guide For Creating An Academic-Level Dataset With Industry Requirements And Constraints. Accessed online at: https://towardsdatascience.com/the-definite-guide-for-creating-an-academic-level-dataset-with-industry-requirements-and-6db446a26cb2
 # Inferential Thinking (2018) Randomness. Accessed online at: https://www.inferentialthinking.com/chapters/09/Randomness.html
+# Sofen, J. (2018) WSOP Main Event Inside Data: Fields Growing, Women Underrepresented, California Dreamin’. Accessed online at: https://www.cardschat.com/news/wsop-main-event-fields-growing-women-underrepresented-california-dreams-66819
