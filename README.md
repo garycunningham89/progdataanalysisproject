@@ -1,8 +1,17 @@
 # Final Project for Programming Data Analysis Project
 # Lecturer - Brian McGinley
 # Submission Date - 16/12/19
-# Objective - 
+# Objectives - 
+# * Choose a real-world phenomenon that can be measured and for which you could collect at least one-hundred data points across at least four diﬀerent variables. 
+# * Investigate the types of variables involved, their likely distributions, and their relationships with each other. 
+# * Synthesise/simulate a data set as closely matching their properties as possible.
+# * Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook.
 
+# The primary resources for data analysis of the simulated dataset in this assignment are: 
+# utilizing python programming language through Anaconda, Visual Studio Code, Python.org tutorials and w3schools tutorials
+# packages such as pandas, seaborn, matplotlib and numpy by researching their respective documentation and this will be utilized alongside various other compositions regarding the same.
+# These will be stored on a Jupyter notebook and submitted and hosted in a Github repository for reviewing.
+# The primary graphical types that will be used bar charts, line charts, box plots, scatter plots, violin plots and histograms.
 
 # KEY TERMS/TOOLS IN ASSIGNMENT:
 # Jupyter - "a loose acronym meaning Julia, Python, and R" (Datacamp, 2019) - The base languages jupyter was created to include but it now includes various other languages, including Python.
