@@ -69,6 +69,27 @@
 # Reference List within Notebook: Programming for Data Analysis Assignment.ipynb
 
 # Reference List:
+
+# Python Software Foundation. Accessed online at: https://www.python.org/
+# w3Schools.com Tutorials. Accessed online at: https://www.w3schools.com
+# Python by Programiz Tutorials. Accessed online at: https://www.programiz.com/
+# Pandas: Python Data Analysis Library. Accessed online at: https://pandas.pydata.org.
+# NumPy. Accessed online at: http://www.numpy.org
+# matplotlib (2019) Pyplot Tutorial. Accessed online at: https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html.
+# Seaborn (2019) Official Seaborn Tutorial. Accessed online at: https://seaborn.pydata.org/tutorial.html
+# Stack Overflow - Various queries for comparison and improving code output. Accessed online at: https://stackoverflow.com
+# SciPy.org (2019) Random Sampling (numpy.random). Accessed online at: https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.rand
+# Tutorialspoint (2019) NumPy Tutorial. Accessed online at: https://www.tutorialspoint.com/numpy/index.htm.
+# NumPy Community (2017) NumPy User Guide. Accessed online at: https://numpy.org/doc/_downloads/numpy-user-1.13.0.pdf
+# Seaborn (2019) Visualizing statistical relationships. Accessed online at: https://seaborn.pydata.org/tutorial/relational.html
+# Investopedia (2019) Descriptive Statistics. Accessed online at: https://www.investopedia.com/terms/d/descriptive_statistics.asp
+# Doshi, S. (2019) Analyze the data through data visualization using Seaborn. Towards Data Science. Accessed online at: https://towardsdatascience.com/.analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
+# Pynative (2019) Python Random Number Generation tutorial. Accessed online at: https://pynative.com/python-random-module/
+# Brownlee, J. (2018) How to Generate Random Numbers in Python. Machine Learning Mastery.
+# Phuong, V. T. H and Cyzgan, M. (2015) Getting Started with Python Data Analysis. Accessed online at: https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781785285110/backindex
+# Singh, S. (2019) Become a Data Visualization Whiz with this Comprehensive Guide to Seaborn in Python. Analytics Vidhya. Accessed online at: https://www.analyticsvidhya.com/blog/2019/09/comprehensive-data-visualization-guide-seaborn-python/
+# Wajiha (2019) Python Seaborn Tutorial | Data Visualization Using Seaborn. Accessed online at: https://www.codementor.io/wajihaurooj/python-seaborn-tutorial-data-visualization-using-seaborn-wpj9qydr2.
+# Marsland, S. (2015) Machine Learning: An Algorithmic Perspective. Taylor and Francis Group.
 # pandas (2019) pandas: powerful Python data analysis toolkit. Accessed online at: https://pandas.pydata.org/pandas-docs/stable/index.html
 #  GeeksforGeeks (2019) Creating a Pandas DataFrame.Accessed online at: https://www.geeksforgeeks.org/creating-a-pandas-dataframe/
 # Like Geeks (2019) Python NumPy Array Tutorial. Accessed online at: https://likegeeks.com/numpy-array-tutorial/
@@ -77,6 +98,7 @@
 # Inferential Thinking (2018) Randomness. Accessed online at: https://www.inferentialthinking.com/chapters/09/Randomness.html
 # BlackRain79 (2018) What is a Good Poker Winning Percentage? Accessed online at: https://www.blackrain79.com/2018/05/good-poker-winning-percentage.html.
 # Sofen, J. (2018) WSOP Main Event Inside Data: Fields Growing, Women Underrepresented, California Dreamin’. Accessed online at: https://www.cardschat.com/news/wsop-main-event-fields-growing-women-underrepresented-california-dreams-66819
+# Ruddock, S. (2017) The Reduced Numbers Of Young Players In Poker IS Probably A Good Thing. https://www.uspoker.com/blog/young-players-good-bad-poker/18237/
 # Willems, K (2019) Pandas Tutorial: DataFrames in Python. Accessed online at: https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
 # Srinivasulu, R (2018) Different Ways to Create Numpy Arrays. Accessed online at: https://www.pluralsight.com/guides/different-ways-create-numpy-arrays
 # pandas (2019) Styling. Accessed online at: https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html
