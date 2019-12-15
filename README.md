@@ -13,6 +13,24 @@
 # These will be stored on a Jupyter notebook and submitted and hosted in a Github repository for reviewing.
 # The primary graphical types that will be used bar charts, line charts, box plots, scatter plots, violin plots and histograms.
 
+# Pre research considerations for dataset simulation from Cohen (2019):
+# Which data to sample.
+# Which sampling distribution to follow and when?
+# Which sampling algorithm to use.
+# How many to sample?
+
+# Within this poker tournament data set the attributes are be subdivided into:
+# Categorical data:
+# - gender
+# - level
+# Numerical data:
+# - age
+# - gwp
+# - totalpts
+# - chips
+# - count
+# - handswon%
+
 # KEY TERMS/TOOLS IN ASSIGNMENT:
 # Jupyter - "a loose acronym meaning Julia, Python, and R" (Datacamp, 2019) - The base languages jupyter was created to include but it now includes various other languages, including Python.
 # GitHub account previously created on GitHub.com for creation of repositories of code, assignment and lecture content input. GitHub is the worlds leading software development and sharing platform which brings together the worlds greatest community of developers (GitHub.com, 2019).
@@ -65,7 +83,18 @@
 # sort(x) - sorts a random sequence from low to high.
 # seed([seed]) Seed the generator.
 
-# Seaborn is an amazing Python visualization library built on top of matplotlib and seaborn has a high-level interface as compared to the low level of Matplotlib (Singh, 2019).
+# Packages used:
+# * Pandas - "is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language" (pandas Documentation, 2019).
+# * Matplotlib - "tries to make easy things easy and hard things possible. You can generate plots, histograms, power spectra, bar charts, errorcharts, scatterplots, etc., with just a few lines of code" (Matplotlib Documentation, 2019). 
+# * Seaborn - a higher level data visualization package than matlplotlib which is built on top of it and Waskom has described it as "If Matplotlib “tries to make easy things easy and hard things possible”, seaborn tries to make a well-defined set of hard things easy too.” (Singh, 2019). Seaborn is an amazing Python visualization library built on top of matplotlib and seaborn has a high-level interface as compared to the low level of Matplotlib (Singh, 2019).
+
+# Primary Issues:
+# * Formulating a real world phenomenon which could be simulated accurately and that could have analysis performed on it with multiple variables.
+# * Generating accurate data measurements for the data set, using a lot of trial and error.
+# * Trying to include too much in a simulated data set.
+# * Choosing the correct generation and analysis techniques.
+# * Time keeping in line with other assignments and other aspects as part of entire online course.
+
 # Reference List within Notebook: Programming for Data Analysis Assignment.ipynb
 
 # Reference List:
@@ -73,8 +102,8 @@
 # Python Software Foundation. Accessed online at: https://www.python.org/
 # w3Schools.com Tutorials. Accessed online at: https://www.w3schools.com
 # Python by Programiz Tutorials. Accessed online at: https://www.programiz.com/
-# Pandas: Python Data Analysis Library. Accessed online at: https://pandas.pydata.org.
-# NumPy. Accessed online at: http://www.numpy.org
+# Pandas (2019) Python Data Analysis Library. Accessed online at: https://pandas.pydata.org.
+# NumPy (2019) Documentation. Accessed online at: http://www.numpy.org
 # matplotlib (2019) Pyplot Tutorial. Accessed online at: https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html.
 # Seaborn (2019) Official Seaborn Tutorial. Accessed online at: https://seaborn.pydata.org/tutorial.html
 # Stack Overflow - Various queries for comparison and improving code output. Accessed online at: https://stackoverflow.com
@@ -90,7 +119,6 @@
 # Singh, S. (2019) Become a Data Visualization Whiz with this Comprehensive Guide to Seaborn in Python. Analytics Vidhya. Accessed online at: https://www.analyticsvidhya.com/blog/2019/09/comprehensive-data-visualization-guide-seaborn-python/
 # Wajiha (2019) Python Seaborn Tutorial | Data Visualization Using Seaborn. Accessed online at: https://www.codementor.io/wajihaurooj/python-seaborn-tutorial-data-visualization-using-seaborn-wpj9qydr2.
 # Marsland, S. (2015) Machine Learning: An Algorithmic Perspective. Taylor and Francis Group.
-# pandas (2019) pandas: powerful Python data analysis toolkit. Accessed online at: https://pandas.pydata.org/pandas-docs/stable/index.html
 #  GeeksforGeeks (2019) Creating a Pandas DataFrame.Accessed online at: https://www.geeksforgeeks.org/creating-a-pandas-dataframe/
 # Like Geeks (2019) Python NumPy Array Tutorial. Accessed online at: https://likegeeks.com/numpy-array-tutorial/
 # Tanguy (2019) How Does Your Computer Generate Random Numbers? Accessed online  at: https://www.sicara.ai/blog/2019-01-28-how-computer-generate-random-numbers
@@ -102,4 +130,3 @@
 # Willems, K (2019) Pandas Tutorial: DataFrames in Python. Accessed online at: https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
 # Srinivasulu, R (2018) Different Ways to Create Numpy Arrays. Accessed online at: https://www.pluralsight.com/guides/different-ways-create-numpy-arrays
 # pandas (2019) Styling. Accessed online at: https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html
-# For certain formulaic inputs the LaTeX tutorial on Math.ubc.ca was sampled and the link for such is: https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/.
