@@ -75,6 +75,7 @@
 # Tanguy (2019) How Does Your Computer Generate Random Numbers? Accessed online  at: https://www.sicara.ai/blog/2019-01-28-how-computer-generate-random-numbers
 # Cohen, O. (2019) The Definite Guide For Creating An Academic-Level Dataset With Industry Requirements And Constraints. Accessed online at: https://towardsdatascience.com/the-definite-guide-for-creating-an-academic-level-dataset-with-industry-requirements-and-6db446a26cb2
 # Inferential Thinking (2018) Randomness. Accessed online at: https://www.inferentialthinking.com/chapters/09/Randomness.html
+# BlackRain79 (2018) What is a Good Poker Winning Percentage? Accessed online at: https://www.blackrain79.com/2018/05/good-poker-winning-percentage.html.
 # Sofen, J. (2018) WSOP Main Event Inside Data: Fields Growing, Women Underrepresented, California Dreamin’. Accessed online at: https://www.cardschat.com/news/wsop-main-event-fields-growing-women-underrepresented-california-dreams-66819
 # Willems, K (2019) Pandas Tutorial: DataFrames in Python. Accessed online at: https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
 # Srinivasulu, R (2018) Different Ways to Create Numpy Arrays. Accessed online at: https://www.pluralsight.com/guides/different-ways-create-numpy-arrays
